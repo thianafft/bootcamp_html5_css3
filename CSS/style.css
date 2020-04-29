@@ -1,17 +1,23 @@
      body{
         background: #EBF5FB;
+        margin-left: 20px;
+        margin-right: 300 ;
     }
+ 
+      header{
+        margin-top: 50;
+            }
+
+      li{
+        color:purple
+    }
+    
+    
+      h3{
+        font-size:30px; color: rgb(255, 0, 85)
+      }
 
 
-
-
-
-
-
-
-li{
-    color:purple
-}
 
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:700);
